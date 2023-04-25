@@ -1,0 +1,39 @@
+Projeto de um Almoxarifado
+
+Entidades:
+Funcionario
+Ferramenta
+EPC (Equipamento de Proteção Coletivo)
+EPI (Equipamento de Proteção Individual)
+
+Atributos do Funcionario
+Registro
+Nome 
+CPF
+
+Atributos da Ferramenta
+Numero de Série
+Nome
+Quantidade
+
+Atributos do EPI
+Nome
+Data de Retirada
+Data de Devolução
+
+Atributos do EPC 
+Nome
+Data de Retirada
+Data de Devolução
+
+Método do Funcionário
+GetNome()
+
+Método da Ferramenta
+GetNumeroDeSerie()
+
+Método do EPI
+GetDataRetirada()
+
+Método do EPC
+GetDataRecebido()
